@@ -1,4 +1,3 @@
-
 # AI Travel Planner — System Prompt
 
 ---
